@@ -6,6 +6,9 @@ Team: Team05
 ================================================================================
 """
 
+pip install streamlit pandas numpy scikit-learn matplotlib seaborn
+streamlit run Team05_Assignment2_dashboard.py
+
 import streamlit as st
 import pandas as pd
 import numpy as np
